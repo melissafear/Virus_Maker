@@ -1,0 +1,6 @@
+#!/bin/bash
+cd ~/Documents
+mkdir virusfolder
+cd virusfolder
+echo "I am a virus" >> virus.txt
+open virus.txt
